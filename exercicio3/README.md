@@ -4,7 +4,7 @@ Crie um código que receba um **prompt** que diga: "Escreva aqui sua nacionalida
 
 Vamos considerar que nosso programa aceita as seguintes 5 nacionalidades:
 - brasileira;
-- argentina;
+- colombiana;
 - uruguaia;
 - chilena;
 - colombiana;
