@@ -1,4 +1,4 @@
-let idade = 19
+let idade = 70
 let ensinoMedio = true
 let cursandoFaculdade = false
 
